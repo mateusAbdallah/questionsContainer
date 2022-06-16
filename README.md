@@ -1,1 +1,1 @@
-Responsive page with three interacting questions container.
+Responsive page with three interactive questions container.
